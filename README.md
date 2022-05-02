@@ -112,7 +112,7 @@
   <table border="0" align="center">
     <tr border="0">
       <td width="50%" align="center">     
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshim0978&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshim0978&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=4"/>
         <img src="https://github-readme-stats.vercel.app/api?username=jshim0978&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true"/>
       </td>
       <td width="50%" align="center">
