@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Jungwoo Shim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**jshim0978/jshim0978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<div>
+  <a href="https://solved.ac/jshim0978"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jshim0978"/></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jshim0978&count_private=true&include_all_commits=true" />
+</div>
+<div style='margin-top=20px;'>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=jshim0978&row=1&column=7"/>
+  </a>
+</div>
