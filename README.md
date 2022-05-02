@@ -2,7 +2,7 @@
 
 <br/>
 <div>
-  <a href="https://solved.ac/jshim0978"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jshim0978"/></a>
+  <a href="https://solved.ac/jungwooshim"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungwooshim"/></a>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=jshim0978&count_private=true&include_all_commits=true" />
 </div>
 <div style='margin-top=20px;'>
