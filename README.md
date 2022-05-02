@@ -10,4 +10,4 @@
     <img width=800 src="https://github-profile-trophy.vercel.app/?username=jshim0978&row=1&column=7"/>
   </a>
 </div
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jshim0978)](https://github.com/anuraghazra/github-readme-stats)
