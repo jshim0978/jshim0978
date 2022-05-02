@@ -1,16 +1,12 @@
 ### Hi there, I'm Jungwoo Shim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br/>
-<div>
-  <a href="https://solved.ac/jungwooshim"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungwooshim"/></a>
+
+<a href="https://solved.ac/jungwooshim"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungwooshim"/></a>
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jshim0978&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-<div style='margin-top=20px;'>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=jshim0978&row=1&column=7"/>
-  </a>
+
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
@@ -39,6 +35,9 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
   
-  <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+  
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshim0978&layout=compact&theme=merko">
+  
+  
