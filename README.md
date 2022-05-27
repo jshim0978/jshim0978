@@ -127,7 +127,7 @@
 <br/>
 
 ## Quotes!
-<p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default" />
-</p>
+<div align="center">
   
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div> 
