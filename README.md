@@ -47,7 +47,7 @@
 <br/>
 <br/>
 
-## 📚 Libaries
+## 📚 Libraries
 ### I Know :
 <p align="left">
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
