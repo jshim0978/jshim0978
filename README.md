@@ -1,4 +1,4 @@
-## I'm Jungwoo Shim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## I'm Jungwoo Shim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 <br/>
 
   🌱 &nbsp; I'm Currently <b>Serving My Military Duties</b> at a Small Web Dev Company <br/>
