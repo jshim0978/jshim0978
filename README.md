@@ -1,5 +1,7 @@
+Email : jshim0978@gmail.com
 
-## &#x1f4c8; Quick stats about me
+
+## &#x1f4c8; about me
 <p align="center">
   <table border="0" align="center">
     <tr border="0">
@@ -18,7 +20,7 @@
 <br/>
 <br/>
 
-## Quotes!
+## quotes!
 <div align="center">
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
