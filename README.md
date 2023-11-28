@@ -2,6 +2,11 @@ Email : jshim0978@gmail.com
 
 
 ## &#x1f4c8; about me
+
+<p>
+  interests : ...
+</p>
+
 <p align="center">
   <table border="0" align="center">
     <tr border="0">
