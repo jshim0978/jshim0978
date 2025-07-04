@@ -1,9 +1,9 @@
 Email : jshim0978@gmail.com
 
-## 📊 about me
+## 📊 About me
 
 <p>
-  interests : ...
+  Interests : AI computing, Cloud computing, AI development software, Large Language Model optimization, Distributed & parallel AI computing, Natural Language Processing (NLP), Natural Language Generation (NLG), Information Retrieval, Data-driven decision making, Model reliability & ethics
 </p>
 
 <p align="center">
