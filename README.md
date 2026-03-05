@@ -90,12 +90,3 @@ I work on making large language models **more reliable under real-world constrai
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 </p>
 
----
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jshim0978&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshim0978&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&layout=compact&langs_count=6" />
-
-</div>
