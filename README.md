@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://github.com/jshim0978">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Jungwoo+Shim;AI+Researcher+%40+ETRI" alt="Typing SVG" />
+</a>
+
 # Jungwoo Shim
 
 **AI Researcher @ ETRI** · Korea University M.S. in AI
@@ -10,8 +14,8 @@
 
 [![Email](https://img.shields.io/badge/jshim0978@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jshim0978@gmail.com)
 [![GitHub](https://img.shields.io/badge/jshim0978-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jshim0978)
-<!-- [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](YOUR_GOOGLE_SCHOLAR) -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN) -->
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=2y4IQlIAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jungwoo-shim-073100240/)
 
 </div>
 
@@ -78,9 +82,18 @@ I work on making large language models **more reliable under real-world constrai
 
 ## Tech Stack
 
+**AI / ML**
+
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/vLLM-5C2D91?style=flat-square&logoColor=white"/>
+</p>
+
+**Engineering**
+
+<p align="center">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
